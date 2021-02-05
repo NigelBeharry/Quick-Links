@@ -17,3 +17,5 @@ https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6 - Neumorphism
 https://htmlcolorcodes.com/color-chart/ - HTML Color Code
 
 https://www.tutorialsteacher.com/javascript/javascript-tutorials - JavaScript Tutorials
+
+https://bennettfeely.com/clippy/ - Clip-path
