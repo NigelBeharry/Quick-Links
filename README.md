@@ -28,3 +28,6 @@ https://flashcards.github.io/command_line/introduction.html   Flash Card Command
 http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/  Comman Line Basic another cheatsheet
 
 https://www.theodinproject.com/courses/foundations/lessons/setting-up-git - Setting Up git
+
+
+https://www.youtube.com/watch?v=HVsySz-h9r4&ab_channel=CoreySchafer  Git Basics Video
