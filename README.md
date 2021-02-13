@@ -26,3 +26,5 @@ https://files.fosswire.com/2007/08/fwunixref.pdf   Command Line Basic CheatSheet
 https://flashcards.github.io/command_line/introduction.html   Flash Card Command Line
 
 http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/  Comman Line Basic another cheatsheet
+
+https://www.theodinproject.com/courses/foundations/lessons/setting-up-git - Setting Up git
