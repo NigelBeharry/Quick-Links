@@ -39,3 +39,7 @@ https://devdocs.io/html-attributes/     DevDocs
 
 https://colorhunt.co/ colorhunt- color picker
 https://emojipedia.org/          emoji
+
+https://www.dailyui.co/  Daily Ui
+https://collectui.com/   Collect UI
+
